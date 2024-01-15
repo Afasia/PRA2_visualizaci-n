@@ -7,7 +7,6 @@ En esta repository se encuentran:
 2) documento PDF con al descripción del proyecto
 3) documento descriptivo de la variable
 4) Codigo en R utilizato para processar los datos y crear las primeras visualizaciones
-5) Dataset preprocesado (solamente las variables seleccionadas)
 
 Fuente:
 
