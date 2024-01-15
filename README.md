@@ -4,8 +4,9 @@ Secunda practica del curso de visualización de datos
 En esta repository se encuentran:
 
 1) documento PDF con los enlaces a la visualización, a la fuente del dataset y al documento descriptivo de las variables
-2) documento descriptivo de la variable
-3) Codigo en R utilizato para processar los datos y crear las primeras visualizaciones
+2) documento PDF con al descripción del proyecto
+3) documento descriptivo de la variable
+4) Codigo en R utilizato para processar los datos y crear las primeras visualizaciones
 
 Fuente:
 
